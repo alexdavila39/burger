@@ -1,4 +1,10 @@
 .devour{
 display: inline-block;
+}
 
+.img{
+    background-image: url("../img/burger.jpeg");
+    background-repeat: no-repeat;
+   height: 300px;
+    
 }
